@@ -1,0 +1,13 @@
+{
+    "name": "redredmaple/packages",
+    "description": "a test",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "SERVICE\\":"src/service"
+        }
+    }
+}
